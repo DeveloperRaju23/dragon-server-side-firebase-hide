@@ -1,0 +1,33 @@
+.header-btn {
+  background-color: #d72050;
+  padding: 20px 34px;
+  border: none;
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 30px;
+  color: #ffffff;
+}
+.login-btn{
+    background: #403F3F;
+  padding: 14px 34px;
+  border: none;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 30px;
+  color: #ffffff;
+}
+
+.qzoneBg{
+    position: relative;
+}
+.qzoneAbsolute{
+    position: absolute;
+   
+    top: 14%;
+    color: white;
+    right: 30px;
+}
+
+.active{
+  color: #d72050;
+}
